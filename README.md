@@ -5,8 +5,8 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀![](clark-tibbs-oqstl2l5oxi-unsplash.jpg)
 
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀![Ivan Marinov's GitHub stats](https://github-readme-stats.vercel.app/api?username=I-M-Marinov&theme=github_dark&show_icons=true)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀![I-M-Marinov's Streak](https://github-readme-streak-stats.herokuapp.com/?user=I-M-Marinov&theme=dark&hide_border=false)
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀![I-M-Marinov's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=I-M-Marinov&theme=dark&show_icons=true&hide_border=false&layout=compact)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀![Ivan Marinov's GitHub stats](https://github-readme-stats.vercel.app/api?username=I-M-Marinov&theme=github_dark&show_icons=true)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀![I-M-Marinov's Streak](https://github-readme-streak-stats.herokuapp.com/?user=I-M-Marinov&theme=dark&hide_border=false)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀![I-M-Marinov's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=I-M-Marinov&theme=dark&show_icons=true&hide_border=false&layout=compact)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 🔭Last position I held was dispatcher in a transporation firm based out of Chicago, IL, USA.
