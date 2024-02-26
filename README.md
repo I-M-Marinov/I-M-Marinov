@@ -22,6 +22,9 @@ ________________________________________________________________________________
 🐶 I have two dogs - A black Labrador and a small Corgi. I guess you've already seen the picture, right ? 
 
 ![Ivan Marinov's GitHub stats](https://github-readme-stats.vercel.app/api?username=I-M-Marinov&theme=github_dark&show_icons=true)
+![I-M-Marinov's Streak](https://github-readme-streak-stats.herokuapp.com/?user=I-M-Marinov&theme=dark&hide_border=false)
+![I-M-Marinov's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=I-M-Marinov&theme=dark&show_icons=true&hide_border=false&layout=compact)
+
 
 
 "Without ambition one starts nothing. Without work one finishes nothing. The prize will not be sent to you. You have to win it."
