@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Ivan and I have just started learning C# with the goal of becoming a Developer ! 
+### Hi there 👋 My name is Ivan and I am on the path of becoming a Developer ! 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](Read_me_banner.jpg)
@@ -7,11 +7,11 @@ ________________________________________________________________________________
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-🔭 I’m currently working as a dispatcher in a transporation firm based out of Chicago, IL, USA.
+🔭Last position I held was dispatcher in a transporation firm based out of Chicago, IL, USA.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-📫 How to reach me:  | Email me on lcfrrr@gmail.com or PM me on Facebook ----> https://www.facebook.com/lcfrrr/
+📫 How to reach me:  | Email me on ivan.marinov.maronov@gmail.com or PM me on Facebook ----> https://www.facebook.com/lcfrrr/
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
