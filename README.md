@@ -2,7 +2,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀![](clark-tibbs-oqstl2l5oxi-unsplash.jpg)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀![](clark-tibbs-oqstl2l5oxi-unsplash.jpg)
 
 
 ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ![Ivan Marinov's GitHub stats](https://github-readme-stats.vercel.app/api?username=I-M-Marinov&theme=github_dark&show_icons=true)
