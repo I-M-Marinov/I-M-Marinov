@@ -8,9 +8,9 @@
 <img src="./clark-tibbs-oqstl2l5oxi-unsplash.jpg" border="10"/>
 </p>
 
+<h2 align="center">
+  My CV is avaialble at ---> https://i-m-marinov.github.io/</h2>
 
-> [!NOTE]
->  My CV is avaialble at ---> https://i-m-marinov.github.io/
 
 ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ![Ivan Marinov's GitHub stats](https://github-readme-stats.vercel.app/api?username=I-M-Marinov&theme=github_dark&show_icons=true)
 
