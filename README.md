@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Ivan and I am on the path of becoming a Developer ! 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
-![](Read_me_banner.jpg)
+
 
 _______________________________________________________________________________________________________________________________________________
 
@@ -19,7 +19,8 @@ ________________________________________________________________________________
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-🐶 I have two dogs - A black Labrador and a small Corgi. I guess you've already seen the picture, right ? 
+🐶 I have two dogs - A black Labrador and a small Corgi.
+![](Read_me_banner.jpg)
 
 ![Ivan Marinov's GitHub stats](https://github-readme-stats.vercel.app/api?username=I-M-Marinov&theme=github_dark&show_icons=true)
 
