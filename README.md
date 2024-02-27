@@ -9,7 +9,7 @@
 </p>
 
 <h2 align="center">
-  My CV is avaialble at ---> https://i-m-marinov.github.io/</h2>
+  My Resume is avaialble at ---> https://i-m-marinov.github.io/</h2>
 
 
 ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ![Ivan Marinov's GitHub stats](https://github-readme-stats.vercel.app/api?username=I-M-Marinov&theme=github_dark&show_icons=true)
