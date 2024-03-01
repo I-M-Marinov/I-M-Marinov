@@ -3,18 +3,18 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 
+<h2 align="center">
+  My Resume is avaialble at ---> https://i-m-marinov.github.io/</h2>
 
 <p align="center">
 <img src="./clark-tibbs-oqstl2l5oxi-unsplash.jpg" border="10"/>
 </p>
 
-<h2 align="center">
-  My Resume is avaialble at ---> https://i-m-marinov.github.io/</h2>
 
 
 ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ![Ivan Marinov's GitHub stats](https://github-readme-stats-vercel-setup-hbnk.vercel.app/api?username=I-M-Marinov&theme=github_dark&show_icons=true)
 
-⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀ ![I-M-Marinov's Streak](https://github-readme-streak-stats.herokuapp.com/?user=I-M-Marinov&theme=dark&hide_border=false)
+⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀ [![Ivan Marinov's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=I-M-Marinov&theme=github-dark-blue&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=EB0000&border=EBEBEB&dates=8E8E8E&fire=EB0000)](https://git.io/streak-stats)
 
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀![I-M-Marinov's Top Languages](https://github-readme-stats-vercel-setup-hbnk.vercel.app/api/top-langs/?username=I-M-Marinov&theme=dark&show_icons=true&hide_border=false&layout=compact)⠀  
