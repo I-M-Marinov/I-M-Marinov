@@ -27,7 +27,7 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-📫 How to reach me:  | Email me on ivan.marinov.maronov@gmail.com or PM me on LinkedIn ----> [<kbd>Ivan Marinov</kbd>](https://www.linkedin.com/in/ivan-marinov-71107684/))
+📫 How to reach me:  | Email me on ivan.marinov.marinov@gmail.com or PM me on LinkedIn ----> [<kbd>Ivan Marinov</kbd>](https://www.linkedin.com/in/ivan-marinov-71107684/))
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
