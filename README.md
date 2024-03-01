@@ -1,11 +1,39 @@
 ## Hi there 👋 My name is Ivan and I am on the path of becoming a Developer ! 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
+<h4 align="left">Languages and Tools:</h4> 
+
+<img align="left" style="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="35" height="35"/>
+<img align="left" style="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="35" height="35"/>
+<img align="left" style="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="35" height="35"/>
+<img align="left" style="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="35" height="35"/>
+<img align="left" style="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="35" height="35" />
+<img align="left" style="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="35" height="35"/>
+<img align="left" style="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35" height="35" />
+<br>
+<br>
+<h4 align="left">
+Connect with me:</h4> 
+
+<a href="mailto: ivan.marinov.marinov@gmail.com"><img align="left" style="inline-block" src="https://github.com/I-M-Marinov/I-M-Marinov/assets/134225981/c107abd6-dd88-440a-b9f1-b6301085cc8f" width="35" height="35"/></a>
+<a href="https://www.linkedin.com/in/ivan-marinov-71107684/"><img align="left" style="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="35" height="35"/></a>
+<a href="https://www.facebook.com/lcfrrr/"><img align="left" style="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" width="35" height="35"/></a>
 
 
-<h2 align="center">
-  My Resume is avaialble at ---> https://i-m-marinov.github.io/</h2>
 
+
+<br>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+<h3 align="center" style="inline-block">
+My Resume:
+  
+<a href="https://i-m-marinov.github.io/"><img align="center" style="inline-block" src="https://github.com/I-M-Marinov/I-M-Marinov/assets/134225981/9427f3ef-2027-41a7-82ab-d0879fc7fed1" width="50" height="50"/></a>
+<br>
+<br>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
 <img src="./clark-tibbs-oqstl2l5oxi-unsplash.jpg" border="10"/>
 </p>
@@ -26,10 +54,6 @@
 🔭Last position I held was a Fleet Operations Manager at a transporation firm based out of Chicago, IL, USA.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
-
-📫 How to reach me:  | Email me on ivan.marinov.marinov@gmail.com or PM me on LinkedIn ----> [<kbd>Ivan Marinov</kbd>](https://www.linkedin.com/in/ivan-marinov-71107684/))
-
--------------------------------------------------------------------------------------------------------------------------------------------------
 
 ⚡ Fun fact: Kind of a neat freak, everything needs to be in it's place ! 😁 
 
