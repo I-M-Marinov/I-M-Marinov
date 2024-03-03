@@ -12,7 +12,6 @@
 <a href="https://github.com/I-M-Marinov"><img align="left" style="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35" height="35" /></a>
 <a href="https://github.com/I-M-Marinov"><img align="left" style="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="35" height="35" /></a>
 <a href="https://github.com/I-M-Marinov"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="35" height="35"/></a>
-
 <br>
 <br>
 <h4 align="left">
