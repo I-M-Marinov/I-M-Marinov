@@ -1,7 +1,10 @@
 ## Hi there 👋 My name is Ivan and I am on the path of becoming a Developer ! 
 
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FI-M-Marinov%2Fhit-counter&count_bg=%2307F36C&title_bg=%2308A6EB&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com) 
+ 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 <h4 align="left">Languages and Tools:</h4> 
+
 
 <a href="https://github.com/I-M-Marinov"><img align="left" style="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="35" height="35"/></a>
 <a href="https://github.com/I-M-Marinov"><img align="left" style="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="35" height="35"/></a>
@@ -70,7 +73,7 @@ My Resume:</h4>
 > "Without ambition one starts nothing. Without work one finishes nothing. The prize will not be sent to you. You have to win it."
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀― Ralph Waldo Emerson
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FI-M-Marinov%2Fhit-counter&count_bg=%2307F36C&title_bg=%2308A6EB&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
+
                                                                                             
 
 <!--
