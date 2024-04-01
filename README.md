@@ -20,9 +20,9 @@
 <h4 align="left">
 Connect with me:</h4> 
 
-<a href="mailto: ivan.marinov.marinov@gmail.com"><img align="left" style="inline-block" src="https://github.com/I-M-Marinov/I-M-Marinov/assets/134225981/c107abd6-dd88-440a-b9f1-b6301085cc8f" width="35" height="35"/></a>
-<a href="https://www.linkedin.com/in/ivan-marinov-71107684/"><img align="left" style="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="35" height="35"/></a>
-<a href="https://www.facebook.com/lcfrrr/"><img align="left" style="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" width="35" height="35"/></a>
+<a href="mailto: ivan.marinov.marinov@gmail.com" title="Email me directly"><img align="left" style="inline-block" src="https://github.com/I-M-Marinov/I-M-Marinov/assets/134225981/c107abd6-dd88-440a-b9f1-b6301085cc8f" width="35" height="35"/></a>
+<a href="https://www.linkedin.com/in/ivan-marinov-71107684/" title="Review my LinkedIn Profile"><img align="left" style="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="35" height="35"/></a>
+<a href="https://www.facebook.com/lcfrrr/" title="Follow me on Facebook"><img align="left" style="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" width="35" height="35"/></a>
 
 
 <br>
@@ -32,7 +32,7 @@ Connect with me:</h4>
 <h4 align="left" style="inline-block">
 My Resume:</h4> 
   
-<a href="https://i-m-marinov.github.io/"><img align="left" style="inline-block" src="https://github.com/I-M-Marinov/I-M-Marinov/assets/134225981/9427f3ef-2027-41a7-82ab-d0879fc7fed1" width="50" height="50"/></a>
+<a href="https://i-m-marinov.github.io/" title="Review my Resume"><img align="left" style="inline-block" src="https://github.com/I-M-Marinov/I-M-Marinov/assets/134225981/9427f3ef-2027-41a7-82ab-d0879fc7fed1" width="50" height="50"/></a>
 <br>
 <br>
 
