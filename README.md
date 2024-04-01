@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is Ivan and I am on the path of becoming a Developer ! 
 
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FI-M-Marinov%2Fhit-counter&count_bg=%2307F36C&title_bg=%2308A6EB&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com) 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FI-M-Marinov%2Fhit-counter&count_bg=%23139DBF&title_bg=%23E50404&icon=awesomelists.svg&icon_color=%23FFFFFF&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
  
 -----------------------------------------------------------------------------------------------------------------------------------------------
 <h4 align="left">Languages and Tools:</h4> 
