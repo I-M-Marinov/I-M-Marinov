@@ -16,7 +16,7 @@
 <a href="https://github.com/I-M-Marinov" title="Photoshop"><img align="left" style="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="35" height="35" /></a>
 <a href="https://github.com/I-M-Marinov" title="Figma"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="35" height="35"/></a>
 <br>
-<br>
+
 <h4 align="left">
 Connect with me:</h4> 
 
@@ -30,11 +30,13 @@ Connect with me:</h4>
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 <h4 align="left" style="inline-block">
-My Resume:</h4> 
-  
-<a href="https://i-m-marinov.github.io/my-resume.html#resume-start" title="Review my Resume"><img align="left" style="inline-block" src="https://github.com/I-M-Marinov/I-M-Marinov/assets/134225981/9427f3ef-2027-41a7-82ab-d0879fc7fed1" width="50" height="50"/></a>
+My Portfolio:  My Resume:</h4> 
+
+  <a align="left" style="inline-block" href="https://i-m-marinov.github.io" title="Click to view my Portfolio Website"><img align="center" style="inline-block" src="https://github.com/I-M-Marinov/I-M-Marinov/blob/main/portfolio-svgrepo-com.svg" width="45" height="45"/></a>    <a align="left" style="flex" href="https://i-m-marinov.github.io/my-resume.html#resume-start" title="Click to see my Resume"><img align="center" style="inline-block" src="https://github.com/I-M-Marinov/I-M-Marinov/assets/134225981/9427f3ef-2027-41a7-82ab-d0879fc7fed1" width="50" height="50"/></a>
 <br>
 <br>
+
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
