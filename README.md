@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Ivan and I am on the path of becoming a Developer ! 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=500&color=23EBEB&center=true&random=false&width=700&lines=Motivated+C%23+student+with+practical+experience.;C%23+%2F+JavaScript+%2F+HTML+%26+CSS+;Learning+something+new+every+day++!)](https://git.io/typing-svg)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FI-M-Marinov%2Fhit-counter&count_bg=%23139DBF&title_bg=%23E50404&icon=awesomelists.svg&icon_color=%23FFFFFF&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
  
