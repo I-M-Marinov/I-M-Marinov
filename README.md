@@ -26,7 +26,7 @@
 Connect with me:</h4> 
 
 <a href="mailto: ivan.marinov.marinov@gmail.com" title="Email me directly"><img align="left" style="inline-block" src="https://github.com/I-M-Marinov/I-M-Marinov/assets/134225981/c107abd6-dd88-440a-b9f1-b6301085cc8f" width="35" height="35"/></a>
-<a href="https://www.linkedin.com/in/ivan-marinov-71107684/" title="Review my LinkedIn Profile"><img align="left" style="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="35" height="35"/></a>
+<a href="https://www.linkedin.com/in/ivan-marinov-marinov/" title="Review my LinkedIn Profile"><img align="left" style="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="35" height="35"/></a>
 <a href="https://www.facebook.com/lcfrrr/" title="Follow me on Facebook"><img align="left" style="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" width="35" height="35"/></a>
 
 
