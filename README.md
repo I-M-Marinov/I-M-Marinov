@@ -5,7 +5,6 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------
 <h4 align="left">Languages and Tools:</h4> 
 
-
 <a href="https://github.com/I-M-Marinov" title="CSharp"><img align="left" style="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="35" height="35"/></a>
 <a href="https://github.com/I-M-Marinov" title="Microsoft .NET Core"><img align="left" style="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="30" height="30"/></a>
 <a href="https://github.com/I-M-Marinov" title="Microsoft .NET"><img align="left" style="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" width="35" height="35"/></a>
@@ -18,8 +17,6 @@
 <a href="https://github.com/I-M-Marinov" title="Git"><img align="left" style="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35" height="35"/></a>
 <a href="https://github.com/I-M-Marinov" title="Photoshop"><img align="left" style="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="35" height="35"/></a>
 <a href="https://github.com/I-M-Marinov" title="Figma"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="35" height="35"/></a>
-
-
 <br>
 
 <h4 align="left">
