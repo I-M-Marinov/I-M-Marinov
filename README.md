@@ -9,6 +9,7 @@
 <a href="https://github.com/I-M-Marinov" title="Microsoft .NET Core"><img align="left" style="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="30" height="30"/></a>
 <a href="https://github.com/I-M-Marinov" title="Microsoft .NET"><img align="left" style="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" width="35" height="35"/></a>
 <a href="https://github.com/I-M-Marinov" title="Entity Framework Core"><img align="left" style="inline-block" src="https://cdn.jsdelivr.net/gh/I-M-Marinov/I-M-Marinov@main/ef-core-icon.png" width="50" height="35"/></a>
+<a href="https://github.com/I-M-Marinov" title="ASP.NET"><img align="left" style="inline-block" src="https://github.com/I-M-Marinov/I-M-Marinov/blob/main/ASP.NET.png" width="50" height="35"/></a>
 <a href="https://github.com/I-M-Marinov" title="Visual Studio"><img align="left" style="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="35" height="35"/></a>
 <a href="https://github.com/I-M-Marinov" title="Visual Studio Code"><img align="left" style="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="35" height="35"/></a>
 <a href="https://github.com/I-M-Marinov" title="SQL Server"><img align="left" style="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="35" height="35"/></a>
