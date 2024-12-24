@@ -35,11 +35,14 @@ Connect with me:</h4>
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 <h4 align="left" style="inline-block">
-My Portfolio:  My Resume:</h4> 
+My Portfolio:  My Resume:  My Projects: 
+</h4> 
 
-  <a align="left" style="inline-block" href="https:///imarinov.dev" title="Click to view my Portfolio Website"><img align="center" style="inline-block" src="https://github.com/I-M-Marinov/I-M-Marinov/blob/main/portfolio-svgrepo-com.svg" width="45" height="45"/></a>    <a align="left" style="flex" href="https://imarinov.dev/my-resume-hidden" title="Click to see my Resume"><img align="center" style="inline-block" src="https://github.com/I-M-Marinov/I-M-Marinov/assets/134225981/9427f3ef-2027-41a7-82ab-d0879fc7fed1" width="50" height="50"/></a>
+  <a align="left" style="inline-block" href="https:///imarinov.dev" title="Click to view my Portfolio Website"><img align="center" style="inline-block" src="https://github.com/I-M-Marinov/I-M-Marinov/blob/main/portfolio-svgrepo-com.svg" width="45" height="45"/></a>    <a align="left" style="flex" href="https://imarinov.dev/my-resume-hidden" title="Click to see my Resume"><img align="center" style="inline-block" src="https://github.com/I-M-Marinov/I-M-Marinov/assets/134225981/9427f3ef-2027-41a7-82ab-d0879fc7fed1" width="50" height="50"/></a>    <a align="left" style="flex" href="https://imarinov.dev/projects" title="Click to see my Projects"><img align="center" style="inline-block" src="https://github.com/I-M-Marinov/I-M-Marinov/assets/134225981/9427f3ef-2027-41a7-82ab-d0879fc7fed1" width="50" height="50"/></a>
 <br>
 <br>
+
+
 
 
 
