@@ -51,6 +51,9 @@ My Portfolio:  My Resume:  My Projects:  My Certificates:
 <img src="./clark-tibbs-oqstl2l5oxi-unsplash.jpg" border="10"/>
 </p>
 
+                       "Experience is the name everyone gives to their mistakes."
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                                ― Oscar Wilde
+
 
 
 
@@ -80,8 +83,8 @@ My Portfolio:  My Resume:  My Projects:  My Certificates:
 </p>
 
 
-> "Without ambition one starts nothing. Without work one finishes nothing. The prize will not be sent to you. You have to win it."
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀― Ralph Waldo Emerson
+               [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&border=true)](https://github.com/I-M-Marinov)
+
 
 
                                                                                             
