@@ -83,7 +83,7 @@ My Portfolio:  My Resume:  My Projects:  My Certificates:
 </p>
 
 
-               [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&border=true)](https://github.com/I-M-Marinov)
+          [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&border=true)](https://github.com/I-M-Marinov)
 
 
 
