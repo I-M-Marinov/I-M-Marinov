@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=40&pause=1000&color=7214FFC5&center=true&vCenter=true&width=1000&height=100&lines=Motivated+C%23+Junior+with+practical+experience.;C%23+%2F+JavaScript+%2F+HMTL+%2F+CSS+%2F;Entity+Framework+Core+%2F+MS+SQL+;ASP.NET+Core;Learning+something+new+everyday+!)](https://git.io/typing-svg)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FI-M-Marinov%2Fhit-counter&count_bg=%23139DBF&title_bg=%23E50404&icon=awesomelists.svg&icon_color=%23FFFFFF&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
+                         [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FI-M-Marinov%2Fhit-counter&count_bg=%23139DBF&title_bg=%23E50404&icon=awesomelists.svg&icon_color=%23FFFFFF&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
  
 -----------------------------------------------------------------------------------------------------------------------------------------------
 <h4 align="left">Languages and Tools:</h4> 
@@ -51,9 +51,8 @@ My Portfolio:  My Resume:  My Projects:  My Certificates:
 <img src="./clark-tibbs-oqstl2l5oxi-unsplash.jpg" border="10"/>
 </p>
 
-                       "Experience is the name everyone gives to their mistakes."
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                                ― Oscar Wilde
 
+                   ![Static Badge](https://img.shields.io/badge/%22Experience_is_the_name_everyone_gives_to_their_mistakes.%22-Oscar_Wilde-8A2BE2?style=plastic&logoSize=auto&labelColor=8A2BE2&color=%23444647)
 
 
 
