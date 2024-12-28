@@ -52,7 +52,7 @@ My Portfolio:  My Resume:  My Projects:  My Certificates:
 </p>
 
 
-             ![Static Badge](https://img.shields.io/badge/%22Experience_is_the_name_everyone_gives_to_their_mistakes.%22-Oscar_Wilde-8A2BE2?style=plastic&logoSize=auto&labelColor=8A2BE2&color=%23444647)
+               ![Static Badge](https://img.shields.io/badge/%22Experience_is_the_name_everyone_gives_to_their_mistakes.%22-Oscar_Wilde-8A2BE2?style=plastic&logoSize=auto&labelColor=8A2BE2&color=%23444647)
 
 
 
