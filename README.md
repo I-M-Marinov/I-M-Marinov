@@ -42,8 +42,11 @@ My Portfolio:  My Resume:  My Projects:  My Certificates:
 <br>
 <br>
 
+<h4 align="center">
+ GitHub Trophies
+</h4>
 
-
+![trophy](https://github-profile-trophy.vercel.app/?username=I-M-Marinov&theme=dracula&rank=S,AAA,AA,SSS,SS,A,B,C)
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
