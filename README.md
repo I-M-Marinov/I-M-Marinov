@@ -56,7 +56,7 @@ My Portfolio:  My Resume:  My Projects:  My Certificates:
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
-<img src="./clark-tibbs-oqstl2l5oxi-unsplash.jpg" border="10"/>
+<img src="./live-work-create.jpg" align="center" border="10" width="500px"/>
 </p>
 
 
