@@ -83,7 +83,7 @@ My Portfolio:  My Resume:  My Projects:  My Certificates:
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-🐶 I have two dogs - A black Labrador and a small Corgi.
+🐶 I have two dogs - A black Labrador named Nera and a small Corgi named Joey.
 
 <p align="center">
 <img src="./rsz_read_me_banner.jpg"/>
