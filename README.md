@@ -66,7 +66,7 @@ My Portfolio:  My Resume:  My Projects:  My Certificates:
 
 ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ![Ivan Marinov's GitHub stats](https://github-readme-stats-vercel-setup-hbnk.vercel.app/api?username=I-M-Marinov&theme=github_dark&show_icons=true)
 
-⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀ [![Ivan Marinov's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=I-M-Marinov&theme=github-dark-blue&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=EB0000&border=EBEBEB&dates=8E8E8E&fire=EB0000)](https://git.io/streak-stats)
+⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀ [![Ivan Marinov's GitHub Streak](https://github-readme-streak-stats-jlf7n701c-ivan-marinovs-projects.vercel.app?user=I-M-Marinov&theme=github-dark&hide_border=true&border_radius=3)](https://git.io/streak-stats)
 
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀![I-M-Marinov's Top Languages](https://github-readme-stats-vercel-setup-hbnk.vercel.app/api/top-langs/?username=I-M-Marinov&theme=dark&show_icons=true&hide_border=false&layout=compact)⠀  
