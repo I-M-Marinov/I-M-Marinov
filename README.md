@@ -3,7 +3,7 @@
                          [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FI-M-Marinov%2Fhit-counter&count_bg=%23139DBF&title_bg=%23E50404&icon=awesomelists.svg&icon_color=%23FFFFFF&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
  
 -----------------------------------------------------------------------------------------------------------------------------------------------
-<h4 align="left">Languages and Tools:</h4> 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&pause=1000&color=6F0CF7&vCenter=true&repeat=false&width=260&height=30&lines=Languages+and+Tools%3A)](https://git.io/typing-svg)
 
 <a href="https://github.com/I-M-Marinov" title="CSharp"><img align="left" style="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="35" height="35"/></a>
 <a href="https://github.com/I-M-Marinov" title="Microsoft .NET Core"><img align="left" style="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="30" height="30"/></a>
@@ -22,12 +22,12 @@
 <a href="https://github.com/I-M-Marinov" title="Figma"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="35" height="35"/></a>
 <br>
 
-<h4 align="left">
-Connect with me:</h4> 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&pause=1000&color=6F0CF7&vCenter=true&repeat=false&width=260&height=30&lines=Connect+with+me%3A)](https://git.io/typing-svg)
 
 <a href="mailto: ivan.marinov.marinov@gmail.com" title="Email me directly"><img align="left" style="inline-block" src="https://github.com/I-M-Marinov/I-M-Marinov/assets/134225981/c107abd6-dd88-440a-b9f1-b6301085cc8f" width="35" height="35"/></a>
 <a href="https://www.linkedin.com/in/ivan-marinov-marinov/" title="Review my LinkedIn Profile"><img align="left" style="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="35" height="35"/></a>
 <a href="https://www.facebook.com/lcfrrr/" title="Follow me on Facebook"><img align="left" style="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" width="35" height="35"/></a>
+
 
 
 <br>
