@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-      - uses: I-M-Marinov/github-activity-readme@master
+      - uses:  jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.README_TOKEN }}
         with:
