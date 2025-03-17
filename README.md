@@ -72,11 +72,6 @@ My Portfolio:  My Resume:  My Projects:  My Certificates:
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀![I-M-Marinov's Top Languages](https://github-readme-stats-vercel-setup-hbnk.vercel.app/api/top-langs/?username=I-M-Marinov&theme=dark&show_icons=true&hide_border=false&layout=compact)⠀  
 </div>
 
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
