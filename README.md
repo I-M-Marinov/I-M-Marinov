@@ -97,7 +97,7 @@ My Portfolio:  My Resume:  My Projects:  My Certificates:
 
           [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&border=true)](https://github.com/I-M-Marinov)
 
-
+![](https://hit.yhype.me/github/profile?account_id=134225981)
 
                                                                                             
 
