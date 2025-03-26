@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=40&pause=1000&color=7214FFC5&center=true&vCenter=true&width=1000&height=100&lines=Motivated+C%23+Junior+with+practical+experience.;C%23+%2F+JavaScript+%2F+HMTL+%2F+CSS+%2F;Entity+Framework+Core+%2F+MS+SQL+;ASP.NET+Core;Learning+something+new+everyday+!)](https://git.io/typing-svg)
 
-                         [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FI-M-Marinov%2Fhit-counter&count_bg=%23139DBF&title_bg=%23E50404&icon=awesomelists.svg&icon_color=%23FFFFFF&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
- 
+                         ![Profile Views](https://komarev.com/ghpvc/?username=I-M-Marinov&color=blue&style=for-the-badge&label=Views&base=4122)
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&pause=1000&color=6F0CF7&vCenter=true&repeat=false&width=260&height=30&lines=Languages+and+Tools%3A)](https://git.io/typing-svg)
 
