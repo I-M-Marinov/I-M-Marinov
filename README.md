@@ -76,7 +76,7 @@ My Portfolio:  My Resume:  My Projects:  My Certificates:
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-🌟 Currently enrolled in Software University's course JS Applications. ( 🔗 https://softuni.bg/trainings/4838/js-applications-february-2025 )  
+🌟 Last certificate earned was for Software University's course JS Applications. ( 🔗 https://softuni.bg/Certificates/Details/241309/87492098 )  
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
