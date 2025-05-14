@@ -76,7 +76,7 @@ My Portfolio:  My Resume:  My Projects:  My Certificates:
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-🌟 Last certificate earned was for Software University's course JS Applications. ( 🔗 https://softuni.bg/Certificates/Details/241309/87492098 )  
+🌟 Diploma for the C# Developer Path from Software University (SoftUni). ( 🔗 https://softuni.bg/certificates/details/243734/e0794a83 )  
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
