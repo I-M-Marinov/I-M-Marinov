@@ -52,8 +52,12 @@ My Portfolio:  My Resume:  My Projects:  My Certificates:
 </h4> 
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=I-M-Marinov&theme=dracula&rank=S,AAA,AA,SSS,SS,A,B,C&no-frame=true&column=-1" alt="GitHub Trophies">
+  <img
+    src="https://github-profile-trophy-seven-hazel.vercel.app/?username=I-M-Marinov&theme=dracula&rank=S,AAA,AA,SSS,SS,A,B,C&no-frame=true&column=1"
+    alt="GitHub Trophies"
+  />
 </div>
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
