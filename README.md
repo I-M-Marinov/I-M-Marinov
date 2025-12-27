@@ -44,27 +44,27 @@ My Portfolio:  My Resume:  My Projects:  My Certificates:
 <br>
 <br>
 
-
-
-
-<h4 align="center">
-🏆 GitHub Trophies
-</h4> 
-
-<div align="center">
-   <img
-    src="https://github-profile-trophy-seven-hazel.vercel.app/?username=I-M-Marinov&theme=dracula&column=1&cache_seconds=86400"
-    alt="GitHub Trophies"
-  />
-</div>
-
-
 -----------------------------------------------------------------------------------------------------------------------------------------------
-<p align="center">
-<img src="./live-work-create.jpg" align="center" border="10" width="500px"/>
-</p>
 
+<!--
+   <h4 align="center">
+   🏆 GitHub Trophies
+   </h4> 
+   
+   <div align="center">
+      <img
+       src="https://github-profile-trophy-seven-hazel.vercel.app/?username=I-M-Marinov&theme=dracula&column=1&cache_seconds=86400"
+       alt="GitHub Trophies"
+     />
+   </div>
+   
+   */
+   -----------------------------------------------------------------------------------------------------------------------------------------------
+   <p align="center">
+   <img src="./live-work-create.jpg" align="center" border="10" width="500px"/>
+   </p>
 
+-->
                ![Static Badge](https://img.shields.io/badge/%22Experience_is_the_name_everyone_gives_to_their_mistakes.%22-Oscar_Wilde-8A2BE2?style=plastic&logoSize=auto&labelColor=8A2BE2&color=%23444647)
 
 
