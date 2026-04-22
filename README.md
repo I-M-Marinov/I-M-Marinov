@@ -218,7 +218,7 @@
 
 <div align="center">
   <p>
-    <img src="https://img.shields.io/badge/SoftUni-E74C3C?style=for-the-badge&logo=shield&logoColor=white" height="25" />
+    <img src="https://img.shields.io/badge/SoftUni-E74C3C?style=for-the-badge&logo=shield&logoColor=white" height="35" />
     <img src="https://img.shields.io/badge/C%23_DEVELOPER_DIPLOMA-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white" height="35" />
     <br />
     <br />
