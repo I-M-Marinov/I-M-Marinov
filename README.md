@@ -235,7 +235,7 @@
 <div align="center">
   <p>
     <a href="https://www.draftkings.com/" target="_blank"><img src="https://img.shields.io/badge/DraftKings-51B848?style=for-the-badge&logo=draftkings&logoColor=white" height="35" /></a>
-    <a href="https://sportsbook.draftkings.com/pick6" target="_blank"><img src="https://img.shields.io/badge/Pick6-FF4500?style=for-the-badge&logo=gavel&logoColor=white" height="35" /></a>
+    <a href="https://pick6.draftkings.com" target="_blank"><img src="https://img.shields.io/badge/Pick6-FF4500?style=for-the-badge&logo=gavel&logoColor=white" height="35" /></a>
     <br />
     <b>🔭 Currently working as a Pick6 Live Ops Associate at DraftKings</b>
   </p>
