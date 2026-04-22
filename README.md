@@ -149,35 +149,33 @@
 </div>
 
 
------------------------------------------------------------------------------------------------------------------------------------------------
-
 <table align="center">
     <thead>
         <tr>
-            <th><img src="https://img.shields.io/badge/My_Portfolio-7214FF?style=flat-square" /></th>
-            <th><img src="https://img.shields.io/badge/My_Resume-7214FF?style=flat-square" /></th>
-            <th><img src="https://img.shields.io/badge/My_Projects-7214FF?style=flat-square" /></th>
-            <th><img src="https://img.shields.io/badge/My_Certificates-7214FF?style=flat-square" /></th>
-        </tr>
+          <th width="200"><img src="https://img.shields.io/badge/My_Portfolio-7214FF?style=for-the-badge" height="35" /></th>
+          <th width="200"><img src="https://img.shields.io/badge/My_Resume-7214FF?style=for-the-badge" height="35" /></th>
+          <th width="200"><img src="https://img.shields.io/badge/My_Projects-7214FF?style=for-the-badge" height="35" /></th>
+          <th width="200"><img src="https://img.shields.io/badge/My_Certificates-7214FF?style=for-the-badge" height="35" /></th>
+      </tr>
     </thead>
     <tbody>
         <tr>
-            <td align="center">
+            <td align="center" width="150">
                 <a href="https://imarinov.dev" title="Click to view my Portfolio Website">
                     <img src="https://github.com/I-M-Marinov/I-M-Marinov/blob/main/portfolio-svgrepo-com.svg" width="70" height="45"/>
                 </a>
             </td>
-            <td align="center">
+            <td align="center" width="150">
                 <a href="https://imarinov.dev/my-resume-hidden" title="Click to see my Resume">
                     <img src="https://github.com/I-M-Marinov/I-M-Marinov/assets/134225981/9427f3ef-2027-41a7-82ab-d0879fc7fed1" width="50" height="50"/>
                 </a>
             </td>
-            <td align="center">
+            <td align="center" width="150">
                 <a href="https://imarinov.dev/projects" title="Click to see my Projects">
                     <img src="https://github.com/I-M-Marinov/I-M-Marinov/blob/main/projects2.svg" width="50" height="50"/>
                 </a>
             </td>
-            <td align="center">
+            <td align="center" width="150">
                 <a href="https://imarinov.dev/certificates" title="Click to see my Certificates">
                     <img src="https://github.com/I-M-Marinov/I-M-Marinov/blob/main/certificates.svg" width="40" height="40"/>
                 </a>
