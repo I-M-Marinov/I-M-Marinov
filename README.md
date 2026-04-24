@@ -216,8 +216,8 @@
 
 <div align="center">
   <p>
-    <img src="https://img.shields.io/badge/SoftUni-E74C3C?style=for-the-badge&logo=shield&logoColor=white" height="35" />
-    <img src="https://img.shields.io/badge/C%23_DEVELOPER_DIPLOMA-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white" height="35" />
+    <a href="https://softuni.bg/certificates/details/243734/e0794a83"><img src="https://img.shields.io/badge/SoftUni-E74C3C?style=for-the-badge&logo=shield&logoColor=white" height="35" /></a>
+    <a href="https://softuni.bg/certificates/details/243734/e0794a83"><img src="https://img.shields.io/badge/C%23_DEVELOPER_DIPLOMA-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white" height="35" /></a>
     <br />
     <br />
     <b>🌟 Diploma for the C# Developer Path from Software University (SoftUni)</b>
@@ -241,9 +241,11 @@
 
 <hr />
 
-<div align="center">
+<div align="center"> 
   <p>
-    <img src="https://img.shields.io/badge/Fun_Fact-6F0CF7?style=for-the-badge&logo=sparkles&logoColor=white" height="35"/>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+      <img src="https://img.shields.io/badge/Fun_Fact-014291?style=for-the-badge&logo=sparkles&logoColor=black&labelColor=black&color=014291" height="35"/>
+    </a> 
     <br />
     ⚡ <b>Kind of a neat freak, everything needs to be in its place!</b> 😁
   </p>
@@ -253,7 +255,7 @@
 
 <div align="center">
   <p>
-    <img src="https://img.shields.io/badge/Pets-orange?style=for-the-badge&logo=pawprint&logoColor=white" height="35"/>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://img.shields.io/badge/Pets-orange?style=for-the-badge&logo=pawprint&logoColor=white" height="35"/></a>
     <br />
     🐶 <b>I have two dogs: A black Labrador named Nera and a small Corgi named Joey.</b>
   </p>
